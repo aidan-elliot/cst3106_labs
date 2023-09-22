@@ -1,6 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [resume.html],
+  content: ["./resumehome.html"],
+  darkMode: 'class',
   theme: {
     extend: {},
   },
