@@ -1,7 +1,7 @@
 This system design documentation will give a clear overview of the design components used for my personal portfolio project. It will cover the colour palette, typography, components, the layout, and some screenshots of mock-up for visual communication of the design.
 
 ## Screenshot
-![Mock Up](Screenshot 2023-10-05 030628.png)
+![Alt text](https://github.com/aidan-elliot/cst3106_labs/blob/Lab4/LAB4/Screenshot%202023-10-05%20030628.png?raw=true)
 ## 1. Colour Palette
 For my portfolio. I will be going with a simple light themed white and black page with some small accents of blue. 
 - Black - 000000
